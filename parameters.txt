@@ -1,0 +1,7 @@
+resolution (smaller -> finer; default: 0.01): 0.01
+balancing rule (1: SB, 2: MB, 3: WB; default: 3): 3
+pairing rule (1: OP, 2: GP; default: 2): 2
+GP misalignment (1: no, 2: yes; default: 2): 2
+GP comprehensive objective (1: no, 2: yes; default: 2): 2
+GP coarsening minor (1: no, 2: yes; default: 2): 2
+DC computation method (1: QEF, 2: NDC; default: 1): 1
